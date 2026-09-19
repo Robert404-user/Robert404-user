@@ -81,6 +81,8 @@ The important part is that the system stays honest about **what came from class,
 
 Tool use, autonomous workflows, MCP servers, APIs and connecting models to real services.
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -89,6 +91,8 @@ Tool use, autonomous workflows, MCP servers, APIs and connecting models to real 
 <img src="https://img.shields.io/badge/Knowledge-111111?style=flat-square&logo=obsidian&logoColor=white" />
 
 Building a private study system around recordings, transcripts, notes, lesson context, source grounding and progress.
+
+<br>
 
 </td>
 </tr>
@@ -102,6 +106,8 @@ Building a private study system around recordings, transcripts, notes, lesson co
 
 Self-hosted services, Linux servers, networking and infrastructure I can experiment with.
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -111,6 +117,8 @@ Self-hosted services, Linux servers, networking and infrastructure I can experim
 <img src="https://img.shields.io/badge/NVIDIA-111111?style=flat-square&logo=nvidia&logoColor=white" />
 
 Comparing frontier models and local inference: agent capability, latency, cost, hardware limits and practical deployment.
+
+<br>
 
 </td>
 </tr>
