@@ -12,13 +12,13 @@
 <img src="https://img.shields.io/badge/Local%20LLMs-111111?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/Self--Hosted-111111?style=flat-square&logo=homeassistant&logoColor=white" />
 <img src="https://img.shields.io/badge/Homelab-111111?style=flat-square&logo=serverfault&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Offensive%20Security-111111?style=flat-square&logo=hackthebox&logoColor=white" />
 
 </div>
 
 ## 👋 About me
 
-I'm a student interested in **private AI for learning, AI agents, frontier and local AI, self-hosting, networking, and cybersecurity**.
+I'm a student interested in **private AI for learning, AI agents, frontier and local AI, self-hosting, networking, and offensive security / pentesting**.
 
 🤖 Most of what I build revolves around **durable AI agents** that can work with memory, tools, files, APIs, servers, transcripts, notes, and other real context — not just answer isolated prompts.
 
@@ -153,7 +153,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
 <img src="https://img.shields.io/badge/Self--Hosting-326CE5?style=flat-square&logo=serverfault&logoColor=white" />
 <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-9FEF00?style=flat-square&logo=hackthebox&logoColor=111111" />
+<img src="https://img.shields.io/badge/Offensive%20Security-9FEF00?style=flat-square&logo=hackthebox&logoColor=111111" />
 
 </div>
 
@@ -165,7 +165,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 📖 **School Companion** — making transcripts, notes, source context and AI explanations actually useful  
 🧠 **Frontier + local AI** — comparing leading hosted models with local inference on consumer hardware  
 🐧 **Homelab** — improving reliability, networking and self-hosted services  
-🔐 **Cybersecurity** — learning how systems work, communicate and fail  
+🔐 **Offensive security / pentesting** — testing systems, finding weaknesses and learning how exploitation works  
 💻 **Software development** — getting better by building things I actually use
 
 <div align="center">
