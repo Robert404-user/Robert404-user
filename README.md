@@ -1,13 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Robert&fontSize=54&fontAlignY=35&desc=AI%20agents%20%C2%B7%20Study%20systems%20%C2%B7%20Homelab%20%C2%B7%20Local%20AI&descAlignY=57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Robert&fontSize=54&fontAlignY=35&desc=AI%20agents%20%C2%B7%20Frontier%20%2B%20local%20AI%20%C2%B7%20Study%20systems%20%C2%B7%20Homelab&descAlignY=57&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=850&center=true&vCenter=true&width=760&lines=Building+AI+agents+that+use+real+tools;Optimizing+how+I+study+with+AI;Connecting+models+to+my+own+data+%26+services;Self-hosting%2C+local+LLMs+%26+homelab;Still+learning+%E2%80%94+building+as+I+go" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=850&center=true&vCenter=true&width=780&lines=Building+AI+agents+that+use+real+tools;Working+across+frontier+models+%2B+local+inference;Optimizing+how+I+study+with+AI;Connecting+models+to+my+own+data+%26+services;Still+learning+%E2%80%94+building+as+I+go" alt="Typing animation" />
 
 <br>
 
 <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontier%20AI-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/Local%20LLMs-111111?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/Self--Hosted-111111?style=flat-square&logo=homeassistant&logoColor=white" />
 <img src="https://img.shields.io/badge/Homelab-111111?style=flat-square&logo=serverfault&logoColor=white" />
@@ -17,32 +18,32 @@
 
 ## 👋 About me
 
-I'm a student interested in **AI agents, software, self-hosting, networking, and cybersecurity**.
+I'm a student interested in **AI agents, frontier and local AI, software, self-hosting, networking, and cybersecurity**.
 
 🤖 Most of what I build revolves around using **AI agents as practical tools** — giving them access to APIs, files, servers, transcripts, notes, and other services so they can actually do useful work rather than just answer prompts.
 
 📚 One of my main projects is a personal **study companion**. I'm building a system around class recordings, transcripts, notes, lesson context, and progress tracking, with AI agents helping organize everything and making studying more efficient.
 
-🖥️ I also experiment with **local models, homelab infrastructure, automation, and running useful AI systems on consumer hardware**.
+🖥️ I also experiment with **frontier models, local inference, homelab infrastructure, automation, and running useful AI systems on consumer hardware**.
 
 ---
 
-## 🤖 How I want AI to work
+## ⚙️ My AI workflow
 
 <div align="center">
 
-<img width="100%" src="./assets/agent-flow.svg" alt="Animated AI agent to MCP to tools workflow" />
+<img width="100%" src="./assets/agent-flow.svg" alt="Animated agent runtime to MCP to tools and context workflow" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Agent-Reason%20%26%20Act-8b5cf6?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-Tools%20%26%20Context-222222?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-Connect%20Services-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Data-Files%20%26%20Notes-3b82f6?style=flat-square&logo=files&logoColor=white" />
+<img src="https://img.shields.io/badge/Agent%20Runtime-Reason%20%C2%B7%20Plan%20%C2%B7%20Call-8b5cf6?style=flat-square&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP%20Layer-Discovery%20%C2%B7%20Context-222222?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+<img src="https://img.shields.io/badge/Tools%20%2F%20APIs-Invoke%20%C2%B7%20Execute-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Context%20%2B%20State-Data%20%C2%B7%20Memory-3b82f6?style=flat-square" />
 
 </div>
 
-The part that interests me most is making models interact with **real systems and real context**: tool calls, MCP servers, APIs, local services, files and data.
+I'm most interested in agent pipelines that can work with **real systems and persistent context**: tool calls, MCP servers, APIs, files, services, data, and state.
 
 ---
 
@@ -104,11 +105,12 @@ Self-hosted services, Linux servers, networking and infrastructure I can experim
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Local AI
+### 🧠 Frontier + local AI
+<img src="https://img.shields.io/badge/Frontier%20Models-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-111111?style=flat-square&logo=nvidia&logoColor=white" />
 
-Running and testing LLMs locally, experimenting with inference, hardware limits and practical setups.
+Comparing frontier models and local inference: agent capability, latency, cost, hardware limits and practical deployment.
 
 </td>
 </tr>
@@ -137,6 +139,7 @@ Running and testing LLMs locally, experimenting with inference, hardware limits 
 
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontier%20AI-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
@@ -152,7 +155,7 @@ Running and testing LLMs locally, experimenting with inference, hardware limits 
 
 🔌 **Agents + MCP** — connecting models to tools, files, servers and services  
 📖 **Studying** — making transcripts, notes and lesson context actually useful  
-🧠 **Local AI** — testing what can realistically run on consumer hardware  
+🧠 **Frontier + local AI** — comparing leading hosted models with local inference on consumer hardware  
 🐧 **Homelab** — improving reliability, networking and self-hosted services  
 🔐 **Cybersecurity** — learning how systems work, communicate and fail  
 💻 **Software development** — getting better by building things I actually use
