@@ -22,7 +22,7 @@ I'm a student interested in **private AI for learning, AI agents, frontier and l
 
 🤖 Most of what I build revolves around **durable AI agents** that can work with memory, tools, files, APIs, servers, transcripts, notes, and other real context — not just answer isolated prompts.
 
-📚 My main project is **School Companion** — a private study system built around class recordings, transcripts, notes, lesson context, source-grounded explanations, and progress tracking.
+📚 My main project is **Student Companion** — a private study system built around class recordings, transcripts, notes, lesson context, source-grounded explanations, and progress tracking.
 
 🖥️ I also experiment with **frontier models, local inference, homelab infrastructure, automation, and running useful AI systems on consumer hardware**.
 
@@ -47,7 +47,7 @@ I'm most interested in agent pipelines that can work with **real systems and per
 
 ---
 
-## 📚 School Companion
+## 📚 Student Companion
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Tool use, autonomous workflows, MCP servers, APIs and connecting models to real 
 </td>
 <td width="50%" valign="top">
 
-### 📚 School Companion
+### 📚 Student Companion
 <img src="https://img.shields.io/badge/Transcripts-111111?style=flat-square&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/Knowledge-111111?style=flat-square&logo=obsidian&logoColor=white" />
 
@@ -162,7 +162,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 ## 🎯 Current focus
 
 🔌 **Agents + MCP** — connecting models to tools, files, servers and services  
-📖 **School Companion** — making transcripts, notes, source context and AI explanations actually useful  
+📖 **Student Companion** — making transcripts, notes, source context and AI explanations actually useful  
 🧠 **Frontier + local AI** — comparing leading hosted models with local inference on consumer hardware  
 🐧 **Homelab** — improving reliability, networking and self-hosted services  
 🔐 **Offensive security / pentesting** — testing systems, finding weaknesses and learning how exploitation works  
