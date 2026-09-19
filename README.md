@@ -130,7 +130,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,ubuntu,docker,git,github,bash,vscode,windows&perline=9" alt="Tools and technologies" />
+<img width="760" src="./assets/tech-stack-animated.svg" alt="Animated tools and technologies" />
 
 <br><br>
 
