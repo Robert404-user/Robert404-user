@@ -24,7 +24,7 @@ I'm a student interested in **private AI for learning, AI agents, frontier and l
 
 📚 My main project is **School Companion** — a private study system built around class recordings, transcripts, notes, lesson context, source-grounded explanations, and progress tracking.
 
-🖥️ I also experiment with **frontier models, local inference, homelab infrastructure, automation, and running useful AI systems on consumer hardware**. The older **Socratic Tutor** is archived; School Companion is the direction replacing it.
+🖥️ I also experiment with **frontier models, local inference, homelab infrastructure, automation, and running useful AI systems on consumer hardware**.
 
 ---
 
