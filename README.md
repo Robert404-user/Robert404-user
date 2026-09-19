@@ -156,9 +156,8 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 <img src="https://img.shields.io/badge/Self--Hosting-326CE5?style=flat-square&logo=serverfault&logoColor=white" />
 <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat-square&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Offensive%20Security-9FEF00?style=flat-square&logo=hackthebox&logoColor=111111" />
-<img src="https://img.shields.io/badge/Android%20Rooting-3DDC84?style=flat-square&logo=android&logoColor=111111" />
+<img src="https://img.shields.io/badge/Android%20Rooting-3DDC84?style=flat-square&logo=android&logoColor=000000&labelColor=3DDC84&color=3DDC84" />
 <img src="https://img.shields.io/badge/iOS%20Jailbreaking-111111?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Termux-111111?style=flat-square&logo=termux&logoColor=white" />
 <img src="https://img.shields.io/badge/Custom%20Firmware-111111?style=flat-square&logo=android&logoColor=3DDC84" />
 
 </div>
