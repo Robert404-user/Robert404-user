@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Robert&fontSize=54&fontAlignY=35&desc=AI%20agents%20%C2%B7%20Frontier%20%2B%20local%20AI%20%C2%B7%20Study%20systems%20%C2%B7%20Homelab&descAlignY=57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Robert&fontSize=54&fontAlignY=35&desc=Private%20AI%20for%20learning%20%C2%B7%20Agents%20%C2%B7%20Frontier%20%2B%20local%20AI%20%C2%B7%20Homelab&descAlignY=57&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=850&center=true&vCenter=true&width=780&lines=Building+AI+agents+that+use+real+tools;Working+across+frontier+models+%2B+local+inference;Optimizing+how+I+study+with+AI;Connecting+models+to+my+own+data+%26+services;Still+learning+%E2%80%94+building+as+I+go" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=850&center=true&vCenter=true&width=780&lines=Building+private+AI+systems+for+learning;Building+AI+agents+that+use+real+tools;Working+across+frontier+models+%2B+local+inference;Connecting+models+to+my+own+data+%26+services;Still+learning+%E2%80%94+building+as+I+go" alt="Typing animation" />
 
 <br>
 
@@ -18,13 +18,13 @@
 
 ## 👋 About me
 
-I'm a student interested in **AI agents, frontier and local AI, software, self-hosting, networking, and cybersecurity**.
+I'm a student interested in **private AI for learning, AI agents, frontier and local AI, self-hosting, networking, and cybersecurity**.
 
-🤖 Most of what I build revolves around using **AI agents as practical tools** — giving them access to APIs, files, servers, transcripts, notes, and other services so they can actually do useful work rather than just answer prompts.
+🤖 Most of what I build revolves around **durable AI agents** that can work with memory, tools, files, APIs, servers, transcripts, notes, and other real context — not just answer isolated prompts.
 
-📚 One of my main projects is a personal **study companion**. I'm building a system around class recordings, transcripts, notes, lesson context, and progress tracking, with AI agents helping organize everything and making studying more efficient.
+📚 My main project is **School Companion** — a private study system built around class recordings, transcripts, notes, lesson context, source-grounded explanations, and progress tracking.
 
-🖥️ I also experiment with **frontier models, local inference, homelab infrastructure, automation, and running useful AI systems on consumer hardware**.
+🖥️ I also experiment with **frontier models, local inference, homelab infrastructure, automation, and running useful AI systems on consumer hardware**. The older **Socratic Tutor** is archived; School Companion is the direction replacing it.
 
 ---
 
@@ -47,7 +47,7 @@ I'm most interested in agent pipelines that can work with **real systems and per
 
 ---
 
-## 📚 Study companion
+## 📚 School Companion
 
 <div align="center">
 
@@ -63,9 +63,9 @@ I'm most interested in agent pipelines that can work with **real systems and per
 
 </div>
 
-The goal is to turn what happens in class into useful context: **recordings → transcripts → organized notes → explanations → practice → progress**.
+The goal is to turn what happens in class into useful, traceable context: **recordings → transcripts → organized notes → grounded explanations → practice → progress**.
 
-Not just an AI that gives answers, but a system that can understand what I've already learned, what I'm missing, and what I should work on next.
+The important part is that the system stays honest about **what came from class, what came from stored context, and what the AI generated**.
 
 ---
 
@@ -84,11 +84,11 @@ Tool use, autonomous workflows, MCP servers, APIs and connecting models to real 
 </td>
 <td width="50%" valign="top">
 
-### 📚 AI-assisted studying
+### 📚 School Companion
 <img src="https://img.shields.io/badge/Transcripts-111111?style=flat-square&logo=markdown&logoColor=white" />
 <img src="https://img.shields.io/badge/Knowledge-111111?style=flat-square&logo=obsidian&logoColor=white" />
 
-Building a study system around recordings, transcripts, notes, lesson context and progress.
+Building a private study system around recordings, transcripts, notes, lesson context, source grounding and progress.
 
 </td>
 </tr>
@@ -154,7 +154,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 ## 🎯 Current focus
 
 🔌 **Agents + MCP** — connecting models to tools, files, servers and services  
-📖 **Studying** — making transcripts, notes and lesson context actually useful  
+📖 **School Companion** — making transcripts, notes, source context and AI explanations actually useful  
 🧠 **Frontier + local AI** — comparing leading hosted models with local inference on consumer hardware  
 🐧 **Homelab** — improving reliability, networking and self-hosted services  
 🔐 **Cybersecurity** — learning how systems work, communicate and fail  
