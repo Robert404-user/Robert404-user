@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="175" viewBox="0 0 900 175">
+  <defs>
+    <linearGradient id="sg" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset=".5" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="sGlow"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .box{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+      .label{fill:#f0f6fc;font:600 14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;text-anchor:middle}
+      .sub{fill:#8b949e;font:11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;text-anchor:middle}
+      .path{stroke:url(#sg);stroke-width:3;stroke-linecap:round;fill:none;stroke-dasharray:8 10;animation:dash 2s linear infinite}
+      .dot{fill:#22d3ee;filter:url(#sGlow)}
+      @keyframes dash{to{stroke-dashoffset:-36}}
+      @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+      .one{animation:bob 2.4s ease-in-out infinite}
+      .two{animation:bob 2.4s ease-in-out .3s infinite}
+      .three{animation:bob 2.4s ease-in-out .6s infinite}
+      .four{animation:bob 2.4s ease-in-out .9s infinite}
+    </style>
+  </defs>
+
+  <path d="M165 88 H285 M405 88 H525 M645 88 H765" class="path"/>
+
+  <g class="one">
+    <rect x="45" y="45" rx="14" width="120" height="86" class="box"/>
+    <text x="105" y="78" class="label">🎙️ Record</text>
+    <text x="105" y="102" class="sub">class audio</text>
+  </g>
+
+  <g class="two">
+    <rect x="285" y="45" rx="14" width="120" height="86" class="box"/>
+    <text x="345" y="78" class="label">📝 Transcribe</text>
+    <text x="345" y="102" class="sub">speech → text</text>
+  </g>
+
+  <g class="three">
+    <rect x="525" y="45" rx="14" width="120" height="86" class="box"/>
+    <text x="585" y="78" class="label">🗃️ Organize</text>
+    <text x="585" y="102" class="sub">notes · context</text>
+  </g>
+
+  <g class="four">
+    <rect x="765" y="45" rx="14" width="100" height="86" class="box"/>
+    <text x="815" y="78" class="label">🧠 Learn</text>
+    <text x="815" y="102" class="sub">practice</text>
+  </g>
+
+  <circle cx="225" cy="88" r="4" class="dot"/>
+  <circle cx="465" cy="88" r="4" class="dot"/>
+  <circle cx="705" cy="88" r="4" class="dot"/>
+</svg>
