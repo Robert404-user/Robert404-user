@@ -16,7 +16,7 @@
 
 </div>
 
-## ✦ About me
+## ✦ About me ✦
 
 I'm a student interested in **private AI for learning, AI agents, frontier and local AI, self-hosting, networking, and offensive security / pentesting**.
 
