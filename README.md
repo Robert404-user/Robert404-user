@@ -159,7 +159,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 <img src="https://img.shields.io/badge/Android%20Rooting-3DDC84?style=flat-square&logo=android&logoColor=111111" />
 <img src="https://img.shields.io/badge/iOS%20Jailbreaking-111111?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Termux-111111?style=flat-square&logo=termux&logoColor=white" />
-<img src="https://img.shields.io/badge/ADB-111111?style=flat-square&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Custom%20Firmware-111111?style=flat-square&logo=android&logoColor=3DDC84" />
 
 </div>
 
