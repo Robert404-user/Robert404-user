@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontier%20AI-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontier%20AI-111111?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Local%20LLMs-111111?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/Self--Hosted-111111?style=flat-square&logo=homeassistant&logoColor=white" />
 <img src="https://img.shields.io/badge/Homelab-111111?style=flat-square&logo=serverfault&logoColor=white" />
@@ -148,10 +148,10 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 <br>
 
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-<img src="https://img.shields.io/badge/Hermes%20Agent-111111?style=flat-square&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Hermes%20Agent-111111?style=flat-square&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/iOS%20Jailbreaking-111111?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontier%20AI-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Frontier%20AI-111111?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
