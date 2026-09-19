@@ -130,7 +130,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 
 <div align="center">
 
-<img width="760" src="./assets/tech-stack-animated.svg" alt="Animated tools and technologies" />
+<img width="760" src="./assets/tech-stack-animated-v2.svg" alt="Animated tools and technologies" />
 
 <br><br>
 
