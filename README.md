@@ -7,7 +7,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-<img src="./assets/ai-agents-hermes-badge.svg" alt="AI Agents" />
+<img src="./assets/ai-agents-hermes-badge-v2.svg" alt="AI Agents" />
 <img src="./assets/frontier-ai-badge.svg" alt="Frontier AI" />
 <img src="https://img.shields.io/badge/Local%20LLMs-111111?style=flat-square&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/Self--Hosted-111111?style=flat-square&logo=homeassistant&logoColor=white" />
@@ -36,7 +36,7 @@ I'm a student interested in **private AI for learning, AI agents, frontier and l
 
 <br>
 
-<img src="./assets/agent-runtime-hermes-badge.svg" alt="Agent Runtime" />
+<img src="./assets/agent-runtime-hermes-badge-v2.svg" alt="Agent Runtime" />
 <img src="https://img.shields.io/badge/MCP%20Layer-Discovery%20%C2%B7%20Context-222222?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
 <img src="https://img.shields.io/badge/Tools%20%2F%20APIs-Invoke%20%C2%B7%20Execute-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Context%20%2B%20State-Data%20%C2%B7%20Memory-3b82f6?style=flat-square" />
@@ -148,7 +148,7 @@ Comparing frontier models and local inference: agent capability, latency, cost, 
 <br>
 
 <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-<img src="./assets/hermes-agent-badge.svg" alt="Hermes Agent" />
+<img src="./assets/hermes-agent-badge-v2.svg" alt="Hermes Agent" />
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/iOS%20Jailbreaking-111111?style=flat-square&logo=apple&logoColor=white" />
 <img src="./assets/frontier-ai-badge.svg" alt="Frontier AI" />
